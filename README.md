@@ -16,7 +16,7 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 - 🔭 Estou trabalhando na construção APIs. 
 - 🌱 Atualmente estou estudando:
   <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center" alt="Kotlin" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithpenha20&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
