@@ -22,7 +22,11 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithpenha20&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
+
+[![Edith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edithpenha)](https://github.com/edithpenha20/edithpenha20/edit/main/README.md)
+
+
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:edithpenha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
