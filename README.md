@@ -24,7 +24,7 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
-[![Edith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edithpenha)](https://github.com/edithpenha20/edithpenha20/edit/main/README.md)
+  <img src="https://github.com/edithpenha20/blob/master/codeStats.svg" alt="Alternative Text"/>
 
 
 
