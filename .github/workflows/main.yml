@@ -1,0 +1,19 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update README with my latest coding stats
+
+on:
+  schedule:
+    - cron: '30 5 * * *'
+
+jobs:
+  update-Readme:
+    name: Automatically update my README  
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+        with:
+          WAKATIME_API_KEY: ${{ 8bc407a9-93ee-44cd-92e9-85728b8425d2 }}
+          SHOW_MONTHLY: true
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_ACTION: ${{ github.action }}
