@@ -25,7 +25,86 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2025%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-75-blue)
+
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-1%20Million%20linhas%20de%20c%C3%B3digo-blue)
+
+**🐱 Meus dados no GitHub** 
+
+> 🏆 232 Contribuições no ano de 2021
+ > 
+> 📦 89.6 kB Usado no armazenamento do GitHub 
+ > 
+> 💼 Aberto para contratação
+ > 
+> 📜 68 Repositórios Públicos 
+ > 
+> 🔑 15 Repositórios Privados  
+ > 
+**Eu sou diurno 🐤** 
+
+```text
+🌞 Manhã      69 commits     █████████░░░░░░░░░░░░░░░░   36.7% 
+🌆 Tarde      75 commits     ██████████░░░░░░░░░░░░░░░   39.89% 
+🌃 Noite      37 commits     █████░░░░░░░░░░░░░░░░░░░░   19.68% 
+🌙 Madrugada  7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.72%
+
+```
+📅 **Sou mais produtivo em Sexta-Feira** 
+
+```text
+Segunda-Feira25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
+Terça-Feira  17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
+Quarta-Feira 20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Quinta-Feira 27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Sexta-Feira  49 commits     ██████░░░░░░░░░░░░░░░░░░░   26.06% 
+sábado       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+domingo      26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83%
+
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+⌚︎ Fuso horário: America/Manaus
+
+💬 Linguagens de programação: 
+Java                     14 hrs 22 mins      ███████████████████░░░░░░   78.74% 
+YAML                     2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
+SQL                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.35% 
+Docker                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
+Groovy                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+
+🔥 Editores: 
+IntelliJ                 17 hrs 19 mins      ███████████████████████░░   94.96% 
+VS Code                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
+
+💻 Sistema operacional: 
+Linux                    18 hrs 14 mins      █████████████████████████   100.0%
+
+```
+
+**Eu geralmente programo em Java** 
+
+```text
+Java                     35 repos            █████████████████░░░░░░░░   70.0% 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Kotlin                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+
+```
+
+
+**Linha do tempo**
+
+![Chart not found](https://raw.githubusercontent.com/edithpenha20/edithpenha20/main/charts/bar_graph.png) 
+
+
+ Last Updated on 17/12/2021
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
