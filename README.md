@@ -25,6 +25,8 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-1%20Million%20linhas%20de%20c%C3%B3digo-blue)
