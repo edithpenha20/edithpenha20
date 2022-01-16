@@ -25,8 +25,6 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2020%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-1%20Million%20linhas%20de%20c%C3%B3digo-blue)
@@ -72,18 +70,18 @@ domingo      27 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Kotlin                   33 hrs 55 mins      ██████████████████░░░░░░░   74.73% 
-SQL                      3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
-TypeScript               2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Properties               1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-XML                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.67%
+Kotlin                   27 hrs 51 mins      █████████████████░░░░░░░░   70.83% 
+SQL                      3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
+TypeScript               2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
+Properties               1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+XML                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.23%
 
 🔥 Editores: 
-IntelliJ                 42 hrs 2 mins       ███████████████████████░░   92.63% 
-VS Code                  3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.37%
+IntelliJ                 35 hrs 58 mins      ██████████████████████░░░   91.49% 
+VS Code                  3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
 
 💻 Sistema operacional: 
-Linux                    45 hrs 23 mins      █████████████████████████   100.0%
+Linux                    39 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
@@ -104,7 +102,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2022
+ Last Updated on 16/01/2022
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
