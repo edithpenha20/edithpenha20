@@ -25,7 +25,7 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-1%20Million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -70,14 +70,13 @@ domingo      27 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Java                     39 mins             ████████████████████████░   96.41% 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.59%
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-IntelliJ                 40 mins             █████████████████████████   100.0%
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Linux                    40 mins             █████████████████████████   100.0%
+Nenhuma atividade rastreada esta semana
 
 ```
 
@@ -98,7 +97,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 01:43:51 UTC
+ Last Updated on 31/01/2022 01:40:40 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
