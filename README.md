@@ -70,13 +70,15 @@ domingo      27 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+Java                     28 mins             ███████████████████░░░░░░   79.34% 
+Properties               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
+XML                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.96%
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+IntelliJ                 36 mins             █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Linux                    36 mins             █████████████████████████   100.0%
 
 ```
 
@@ -97,7 +99,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/03/2022 02:07:46 UTC
+ Last Updated on 27/03/2022 02:11:10 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
