@@ -35,7 +35,7 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 
 > 🏆 27 Contribuições no ano de 2022
  > 
-> 📦 90.5 kB Usado no armazenamento do GitHub 
+> 📦 90.8 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -99,7 +99,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/05/2022 02:34:44 UTC
+ Last Updated on 09/05/2022 02:39:10 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
