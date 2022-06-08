@@ -33,13 +33,13 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 27 Contribuições no ano de 2022
+> 🏆 28 Contribuições no ano de 2022
  > 
-> 📦 90.9 kB Usado no armazenamento do GitHub 
+> 📦 91.9 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 74 Repositórios Públicos 
+> 📜 75 Repositórios Públicos 
  > 
 > 🔑 18 Repositórios Privados  
  > 
@@ -85,11 +85,11 @@ Nenhuma atividade rastreada esta semana
 **Eu geralmente programo em Java** 
 
 ```text
-Java                     40 repos            █████████████████░░░░░░░░   68.97% 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Kotlin                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+Java                     40 repos            █████████████████░░░░░░░░   67.8% 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
+Kotlin                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
 
 ```
 
@@ -99,7 +99,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/06/2022 02:32:40 UTC
+ Last Updated on 08/06/2022 02:43:20 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
