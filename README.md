@@ -25,82 +25,78 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-1%20Million%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-1.2%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 34 Contribuições no ano de 2022
+> 📦 202.3 kB Usado no armazenamento do GitHub 
  > 
-> 📦 101.8 kB Usado no armazenamento do GitHub 
+> 🏆 18 Contribuições no ano de 2023
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 77 Repositórios Públicos 
+> 📜 99 Repositórios Públicos 
  > 
-> 🔑 18 Repositórios Privados  
+> 🔑 28 Repositórios Privados 
  > 
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã      34 commits     ███████░░░░░░░░░░░░░░░░░░   29.82% 
-🌆 Tarde      43 commits     █████████░░░░░░░░░░░░░░░░   37.72% 
-🌃 Noite      30 commits     ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-🌙 Madrugada  7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.14%
-
+🌞 Manhã                  114 commits         ████████░░░░░░░░░░░░░░░░░   33.83 % 
+🌆 Tarde                  145 commits         ███████████░░░░░░░░░░░░░░   43.03 % 
+🌃 Noite                  64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+🌙 Madrugada              14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 ```
-📅 **Sou mais produtivo em Quinta-Feira** 
+📅 **Sou mais produtivo em Sexta-Feira** 
 
 ```text
-Segunda-Feira20 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-Terça-Feira  18 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Quarta-Feira 13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
-Quinta-Feira 25 commits     █████░░░░░░░░░░░░░░░░░░░░   21.93% 
-Sexta-Feira  15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-sábado       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-domingo      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65%
-
+Segunda-Feira            50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Terça-Feira              48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Quarta-Feira             50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Quinta-Feira             54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Sexta-Feira              66 commits          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Sábado                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Domingo                  38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 ```
 
 
 📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-⌚︎ Fuso horário: America/Manaus
+🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-HTML                     4 hrs 16 mins       ████████████████████████░   99.07% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.0%
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Linux                    4 hrs 18 mins       █████████████████████████   100.0%
-
+Nenhuma atividade rastreada esta semana
 ```
 
 **Eu geralmente programo em Java** 
 
 ```text
-Java                     40 repos            ████████████████░░░░░░░░░   65.57% 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Kotlin                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28%
-
+Java                     51 repos            ██████████████░░░░░░░░░░░   56.67 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
+
 
 
 **Linha do tempo**
 
-![Chart not found](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2022 03:04:10 UTC
+ Last Updated on 10/09/2023 11:37:27 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
