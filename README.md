@@ -25,15 +25,15 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-1.2%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 202.3 kB Usado no armazenamento do GitHub 
+> 📦 202.4 kB Usado no armazenamento do GitHub 
  > 
 > 🏆 18 Contribuições no ano de 2023
  > 
@@ -46,21 +46,21 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  114 commits         ████████░░░░░░░░░░░░░░░░░   33.83 % 
-🌆 Tarde                  145 commits         ███████████░░░░░░░░░░░░░░   43.03 % 
-🌃 Noite                  64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-🌙 Madrugada              14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+🌞 Manhã                  117 commits         █████████░░░░░░░░░░░░░░░░   34.41 % 
+🌆 Tarde                  145 commits         ███████████░░░░░░░░░░░░░░   42.65 % 
+🌃 Noite                  64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+🌙 Madrugada              14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 ```
 📅 **Sou mais produtivo em Sexta-Feira** 
 
 ```text
-Segunda-Feira            50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Terça-Feira              48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Quarta-Feira             50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Quinta-Feira             54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Sexta-Feira              66 commits          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Sábado                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Domingo                  38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Segunda-Feira            50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Terça-Feira              48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Quarta-Feira             50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Quinta-Feira             54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Sexta-Feira              66 commits          █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Sábado                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Domingo                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 ```
 
 
@@ -96,7 +96,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2023 11:37:27 UTC
+ Last Updated on 11/09/2023 01:33:03 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
