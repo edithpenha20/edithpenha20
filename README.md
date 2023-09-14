@@ -70,15 +70,15 @@ Domingo                  41 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Java                     47 mins             ███████████████████░░░░░░   75.26 % 
-XML                      15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Java                     1 hr 52 mins        ██████████████████████░░░   87.72 % 
+XML                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editores: 
-IntelliJ                 1 hr 3 mins         █████████████████████████   100.00 % 
+IntelliJ                 2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em Java** 
@@ -98,7 +98,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2023 01:33:34 UTC
+ Last Updated on 14/09/2023 01:31:41 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
