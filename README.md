@@ -25,7 +25,7 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-37-blue)
 
@@ -70,16 +70,15 @@ Domingo                  46 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Java                     4 hrs 10 mins       ███████████████████████░░   90.10 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Java                     5 hrs 4 mins        ███████████████████████░░   93.25 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editores: 
-IntelliJ                 4 hrs 38 mins       █████████████████████████   100.00 % 
+IntelliJ                 5 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em Java** 
@@ -99,7 +98,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2023 01:32:52 UTC
+ Last Updated on 19/09/2023 01:34:10 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
