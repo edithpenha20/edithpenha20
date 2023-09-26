@@ -25,7 +25,7 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -70,17 +70,17 @@ Domingo                  46 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Java                     4 hrs 34 mins       ███████████████████████░░   91.24 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Java                     3 hrs 1 min         ███████████████████████░░   91.30 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editores: 
-IntelliJ                 5 hrs               █████████████████████████   100.00 % 
+IntelliJ                 3 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Windows                  5 hrs               █████████████████████████   100.00 % 
+Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em Java** 
@@ -100,7 +100,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2023 01:34:05 UTC
+ Last Updated on 26/09/2023 01:34:03 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
