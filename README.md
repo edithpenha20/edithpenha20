@@ -25,7 +25,7 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -70,17 +70,15 @@ Domingo                  48 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Java                     4 hrs 46 mins       ██████████████████░░░░░░░   72.70 % 
-XML                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Properties               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Java                     5 hrs 17 mins       ███████████████████████░░   92.44 % 
+Docker                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editores: 
-IntelliJ                 6 hrs 34 mins       █████████████████████████   100.00 % 
+IntelliJ                 5 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Windows                  6 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em Java** 
@@ -100,7 +98,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2023 01:34:18 UTC
+ Last Updated on 04/10/2023 01:35:30 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
