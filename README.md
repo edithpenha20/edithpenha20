@@ -25,6 +25,8 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edithpenha20&layout=compact&langs_count=7&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-1.2%20million%20linhas%20de%20c%C3%B3digo-blue)
@@ -41,6 +43,42 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
  > 
 > 🔑 29 Repositórios Privados 
  > 
+**Eu sou diurno 🐤** 
+
+```text
+🌞 Manhã                  138 commits         █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌆 Tarde                  150 commits         ██████████░░░░░░░░░░░░░░░   40.21 % 
+🌃 Noite                  67 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+🌙 Madrugada              18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+```
+📅 **Sou mais produtivo em Sexta-Feira** 
+
+```text
+Segunda-Feira            53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Terça-Feira              49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Quarta-Feira             53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Quinta-Feira             54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Sexta-Feira              70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Sábado                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Domingo                  48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🕑︎ Fuso horário: America/Manaus
+
+💬 Linguagens de programação: 
+Nenhuma atividade rastreada esta semana
+
+🔥 Editores: 
+Nenhuma atividade rastreada esta semana
+
+💻 Sistema operacional: 
+Nenhuma atividade rastreada esta semana
+```
+
 **Eu geralmente programo em Java** 
 
 ```text
@@ -58,7 +96,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2023 01:38:41 UTC
+ Last Updated on 08/12/2023 01:39:43 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
