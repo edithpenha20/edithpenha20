@@ -35,8 +35,6 @@ Também convido você a dar uma olhada em meus projetos... :trophy:*
 
 > 📦 203.4 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 0 Contribuições no ano de 2024
- > 
 > 💼 Aberto para contratação
  > 
 > 📜 102 Repositórios Públicos 
@@ -96,7 +94,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/edithpenha20/edithpenha20/master/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2024 01:39:57 UTC
+ Last Updated on 25/05/2024 01:38:02 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/edith-penha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
